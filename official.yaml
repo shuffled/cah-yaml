@@ -2476,51 +2476,80 @@ sets:
     - text: |-
         Tonight on SNICK: "Are You Afraid of _____?"
 
-- name: Box Expansion
+- name: Other Surprises in The Bigger, Blacker Box
   cards:
     white:
     - text: |-
         The biggest, blackest dick.
-    - text: |-
-        A box within a box.
-    - text: |-
-        A boxing match with a giant box.
+
+- name: Box Expansion
+  cards:
+    white:
     - text: |-
         A box.
     - text: |-
-        Pandora's vagina.
+        A box within a box.
     - text: |-
-        Former President George W. Box.
+        A boxing match
+        with a giant box.
     - text: |-
-        Being a motherfucking box.
+        A box of biscuits,
+        a box of
+        mixed biscuits,
+        and a biscuit mixer.
     - text: |-
-        A falcon with a box on its head.
+        An outbreak
+        of smallbox.
     - text: |-
-        Two midgets shitting into a box.
+        The Boxcar
+        Children.
     - text: |-
-        A box without hinges, key, or lid, yet golden treasure inside is hid.
+        A world without
+        boxes.
     - text: |-
-        The J15 Patriot Assault Box.
-    - text: |-
-        An alternate universe in which boxes store things inside of people.
-    - text: |-
-        A box that is conscious and wishes it weren't a box.
-    - text: |-
-        Something that looks like a box but turns out to be a crate.
-    - text: |-
-        A man-shaped box.
+        Boxing up
+        my feelings.
     - text: |-
         A box-shaped man.
     - text: |-
-        Boxing up my feelings.
+        A man-shaped box.
     - text: |-
-        A world without boxes.
+        Something that
+        looks like a box
+        but turns out to
+        be a crate.
     - text: |-
-        The Boxcar Children.
+        A box that is
+        conscious and
+        wishes it weren't
+        a box.
     - text: |-
-        An outbreak of smallbox.
+        An alternate
+        universe in which
+        boxes store things
+        inside of people.
     - text: |-
-        A box of biscuits, a box of mixed biscuits, and a biscuit mixer.
+        The J15 Patriot
+        Assault Box.
+    - text: |-
+        A box without
+        hinges, key, or lid,
+        yet golden treasure
+        inside is hid.
+    - text: |-
+        Two midgets
+        shitting into a box.
+    - text: |-
+        A falcon with a box
+        on its head.
+    - text: |-
+        Being a
+        motherfucking box.
+    - text: |-
+        Former President
+        George W. Box.
+    - text: |-
+        Pandora's vagina.
 
 - name: Fantasy Pack
   cards:
