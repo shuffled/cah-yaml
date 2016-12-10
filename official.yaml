@@ -975,7 +975,9 @@ sets:
     - text: |-
         _____. Betcha can't have just one!
     - text: |-
-        War!<br><br>What is it good for?
+        War!
+
+        What is it good for?
     - text: |-
         BILLY MAYS HERE FOR _____.
     - text: |-
@@ -1092,7 +1094,9 @@ sets:
         What's the next superhero/sidekick duo?
       pick: 2
     - text: |-
-        Dear Abby,<br><br>I'm having some trouble with _____ and would like your advice.
+        Dear Abby,
+
+        I'm having some trouble with _____ and would like your advice.
     - text: |-
         After the earthquake, Sean Penn brought _____ to the people of Haiti.
     - text: |-
@@ -1107,7 +1111,10 @@ sets:
         Step 1: _____. Step 2: _____. Step 3: Profit.
       pick: 2
     - text: |-
-        Here is the church<br>Here is the steeple<br>Open the doors<br>And there is _____.
+        Here is the church
+        Here is the steeple
+        Open the doors
+        And there is _____.
     - text: |-
         How did I lose my virginity?
     - text: |-
@@ -1885,7 +1892,9 @@ sets:
     - text: |-
         My dad's dumb fucking face.
     - text: |-
-        Prince Ali,<br>fabulous he,<br>Ali Ababwa.
+        Prince Ali,
+        fabulous he,
+        Ali Ababwa.
     - text: |-
         A manhole.
     - text: |-
@@ -1905,12 +1914,14 @@ sets:
     - text: |-
         Man, this is bullshit. Fuck _____.
     - text: |-
-        Dear Leader Kim Jong-un,<br>our village praises your infinite wisdom with a humble offering of _____.
+        Dear Leader Kim Jong-un,
+        our village praises your infinite wisdom with a humble offering of _____.
     - text: |-
         _____ may pass, but _____ will last forever.
       pick: 2
     - text: |-
-        She's up all night for good fun.<br>I'm up all night for _____.
+        She's up all night for good fun.
+        I'm up all night for _____.
     - text: |-
         Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation _____.
     - text: |-
@@ -1927,7 +1938,8 @@ sets:
     - text: |-
         Wes Anderson's new film tells the story of a precocious child coming to terms with _____.
     - text: |-
-        In the beginning, there was _____.<br>And the Lord said, "Let there be _____."
+        In the beginning, there was _____.
+        And the Lord said, "Let there be _____."
       pick: 2
     - text: |-
         What's fun until it gets weird?
@@ -1935,7 +1947,9 @@ sets:
         We never did find _____, but along the way we sure learned a lot about _____.
       pick: 2
     - text: |-
-        You've seen the bearded lady!<br>You've seen the ring of fire!<br>Now, ladies and gentlemen, feast your eyes upon _____!
+        You've seen the bearded lady!
+        You've seen the ring of fire!
+        Now, ladies and gentlemen, feast your eyes upon _____!
     - text: |-
         How am I compensating for my tiny penis?
     - text: |-
@@ -1950,7 +1964,11 @@ sets:
     - text: |-
         Do <i>not</i> fuck with me! I am literally _____ right now.
     - text: |-
-        Adventure.<br>Romance.<br>_____.<br><br>From Paramount Pictures, "_____."
+        Adventure.
+        Romance.
+        _____.
+
+        From Paramount Pictures, "_____."
       pick: 2
     - text: |-
         I am become _____, destroyer of _____!
@@ -2994,12 +3012,20 @@ sets:
 
     black:
     - text: |-
-        Here's what you can expect for the new year.<br>Out: _____.<br>In: _____.
+        Here's what you can expect for the new year.
+        Out: _____.
+        In: _____.
       pick: 2
     - text: |-
-        Revealed:<br>Why He Really Resigned!<br>Pope Benedict's Secret Struggle with _____!
+        Revealed:
+        Why He Really Resigned!
+        Pope Benedict's Secret Struggle with _____!
     - text: |-
-        GREETINGS HUMANS<br><br>I AM _____ BOT<br><br>EXECUTING PROGRAM
+        GREETINGS HUMANS
+
+        I AM _____ BOT
+
+        EXECUTING PROGRAM
     - text: |-
         Kids these days with their iPods and their Internet. In my day, all we needed to pass the time was _____.
     - text: |-
@@ -3198,7 +3224,8 @@ sets:
     - text: |-
         The pure, Zen-like state that exists between micro and macro.
     - text: |-
-        Xena,<br>Warrior Princess.
+        Xena,
+        Warrior Princess.
     - text: |-
         Endless ninjas.
     - text: |-
@@ -3224,7 +3251,8 @@ sets:
 
     black:
     - text: |-
-        <i>(Heavy breathing)</i><br>Luke, I am _____.
+        <i>(Heavy breathing)</i>
+        Luke, I am _____.
     - text: |-
         You think you have defeated me? Well, let's see how you handle _____!
     - text: |-
