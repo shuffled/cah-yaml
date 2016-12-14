@@ -1,0 +1,31 @@
+brand:
+  name: Cards Against Humanity
+set:
+  name: PAX Prime 2014 Panel Pack
+
+white:
+- text: |-
+    A neck beard that is 10% cheese.
+- text: |-
+    Pelvic sorcery.
+- text: |-
+    Pooping as quietly as possible.
+- text: |-
+    The beautiful sport of Turkish oil wrestling.
+- text: |-
+    No survivors.
+- text: |-
+    Go Fuck Yourself.
+
+black:
+- text: |-
+    Buzzfeed presents: 10 pictures of _____ that look like _____.
+  pick: 2
+- text: |-
+    During my first game of D&amp;D, I accidentally summoned _____.
+- text: |-
+    Bob Ross's little-known first show was called &quot;The Joy of _____.&quot;
+- text: |-
+    Like _____, State Farm is there.
+- text: |-
+    The Discovery Channel presents: _____ week.
