@@ -4,202 +4,293 @@ set:
   name: The Fourth Expansion
 
 white:
+
 - text: |-
     Crazy opium eyes.
+
 - text: |-
     10 Incredible Facts About the Anus.
+
 - text: |-
     An interracial handshake.
+
 - text: |-
     Moderate-to-severe joint pain.
+
 - text: |-
     Finally finishing off the Indians.
+
 - text: |-
     Sugar madness.
+
 - text: |-
     Actual mutants with medical conditions and no superpowers.
+
 - text: |-
     The secret formula for ultimate female satisfaction.
+
 - text: |-
     The complex geopolitical quagmire that is the Middle East.
+
 - text: |-
     Fucking a corpse back to life.
+
 - text: |-
     Neil Diamond's Greatest Hits.
+
 - text: |-
     Calculating every mannerism so as not to suggest homosexuality.
+
 - text: |-
     Whatever a McRib&reg; is made of.
+
 - text: |-
     No clothes on, penis in vagina.
+
 - text: |-
     All the single ladies.
+
 - text: |-
     Whispering all sexy.
+
 - text: |-
     How awesome I am.
+
 - text: |-
     Ass to mouth.
+
 - text: |-
     Smoking crack, for instance.
+
 - text: |-
     Falling into the toilet.
+
 - text: |-
     A dance move that's just sex.
+
 - text: |-
     The size of my penis.
+
 - text: |-
     Some sort of Asian.
+
 - text: |-
     A hopeless amount of spiders.
+
 - text: |-
     Party Mexicans.
+
 - text: |-
     Drinking responsibly.
+
 - text: |-
     The safe word.
+
 - text: |-
     Angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night.
+
 - text: |-
     Bouncing up and down.
+
 - text: |-
     Jizz.
+
 - text: |-
     Ambiguous sarcasm.
+
 - text: |-
     A shiny rock that proves I love you.
+
 - text: |-
     Dem titties.
+
 - text: |-
     My worthless son.
+
 - text: |-
     Exploding pigeons.
+
 - text: |-
     A Ugandan warlord.
+
 - text: |-
     My sex dungeon.
+
 - text: |-
     A kiss on the lips.
+
 - text: |-
     Child Protective Services.
+
 - text: |-
     A Native American who solves crimes by going into the spirit world.
+
 - text: |-
     Doo-doo.
+
 - text: |-
     The peaceful and nonthreatening rise of China.
+
 - text: |-
     Sports.
+
 - text: |-
     A fart.
+
 - text: |-
     Unquestioning obedience.
+
 - text: |-
     Three consecutive seconds of happiness.
+
 - text: |-
     Grammar nazis who are also regular Nazis.
+
 - text: |-
     Snorting coke off a clown's boner.
+
 - text: |-
     Africa.
+
 - text: |-
     Depression.
+
 - text: |-
     A horse with no legs.
+
 - text: |-
     The euphoric rush of strangling a drifter.
+
 - text: |-
     Khakis.
+
 - text: |-
     Interspecies marriage.
+
 - text: |-
     A gender identity that can only be conveyed through slam poetry.
+
 - text: |-
     Almost giving money to a homeless person.
+
 - text: |-
     Stuff a child's face with Fun Dip&reg; until he starts having fun.
+
 - text: |-
     What Jesus would do.
+
 - text: |-
     A for-real lizard that spits blood from its eyes.
+
 - text: |-
     Blackula.
+
 - text: |-
     The tiniest shred of evidence that God is real.
+
 - text: |-
     My dad's dumb fucking face.
+
 - text: |-
     Prince Ali,
     fabulous he,
     Ali Ababwa.
+
 - text: |-
     A manhole.
+
 - text: |-
     A sex goblin with a carnival penis.
+
 - text: |-
     A bunch of idiots playing a card game instead of interacting like normal humans.
+
 - text: |-
     A sex comet from Neptune that plunges the Earth into eternal sexiness.
+
 - text: |-
     Sharks with legs.
+
 - text: |-
     Injecting speed into one arm and horse tranquilizer into the other.
+
 - text: |-
     Lots and lots of abortions.
 
 black:
+
 - text: |-
     Man, this is bullshit. Fuck _____.
+
 - text: |-
     Dear Leader Kim Jong-un,
     our village praises your infinite wisdom with a humble offering of _____.
+
 - text: |-
     _____ may pass, but _____ will last forever.
   pick: 2
+
 - text: |-
     She's up all night for good fun.
     I'm up all night for _____.
+
 - text: |-
     Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation _____.
+
 - text: |-
     The Japanese have developed a smaller, more efficient version of _____.
+
 - text: |-
     In return for my soul, the Devil promised me _____, but all I got was _____.
   pick: 2
+
 - text: |-
     You guys, I saw this crazy movie last night. It opens on _____, and then there's some stuff about _____, and then it ends with _____.
   pick: 3
+
 - text: |-
     _____ will never be the same after _____.
   pick: 2
+
 - text: |-
     Wes Anderson's new film tells the story of a precocious child coming to terms with _____.
+
 - text: |-
     In the beginning, there was _____.
     And the Lord said, "Let there be _____."
   pick: 2
+
 - text: |-
     What's fun until it gets weird?
+
 - text: |-
     We never did find _____, but along the way we sure learned a lot about _____.
   pick: 2
+
 - text: |-
     You've seen the bearded lady!
     You've seen the ring of fire!
     Now, ladies and gentlemen, feast your eyes upon _____!
+
 - text: |-
     How am I compensating for my tiny penis?
+
 - text: |-
     I'm sorry, sir, but we don't allow _____ at the country club.
+
 - text: |-
     2 AM in the city that never sleeps. The door swings open and <i>she</i> walks in, legs up to here. Something in her eyes tells me she's looking for _____.
+
 - text: |-
     As king, how will I keep the peasants in line?
+
 - text: |-
     Oprah's book of the month is "_____ For _____: A Story of Hope."
   pick: 2
+
 - text: |-
     Do <i>not</i> fuck with me! I am literally _____ right now.
+
 - text: |-
     Adventure.
     Romance.
@@ -207,27 +298,36 @@ black:
 
     From Paramount Pictures, "_____."
   pick: 2
+
 - text: |-
     I am become _____, destroyer of _____!
   pick: 2
+
 - text: |-
     It lurks in the night. It hungers for flesh. This summer, no one is safe from _____.
+
 - text: |-
     If you can't handle _____, you'd better stay away from _____.
   pick: 2
+
 - text: |-
     This is the prime of my life. I'm young, hot, and full of _____.
+
 - text: |-
     I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _____.
+
 - text: |-
     This year's hottest album is "_____" by _____.
   pick: 2
+
 - text: |-
     Every step towards _____ gets me a little closer to _____.
   pick: 2
+
 - text: |-
     Forget everything you know about _____, because now we've supercharged it with _____!
   pick: 2
+
 - text: |-
     Honey, I have a new role-play I want to try tonight! You can be _____, and I'll be _____.
   pick: 2

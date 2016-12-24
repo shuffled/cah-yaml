@@ -4,26 +4,36 @@ set:
   name: PAX East 2014 Panel Pack
 
 white:
+
 - text: |-
     Exciting content!
+
 - text: |-
     Rubbing chocolate pudding all over Bill Cosby's nipples.
+
 - text: |-
     What The Rock was really cooking.
+
 - text: |-
     Stepping on a god damn friggin' LEGO.
+
 - text: |-
     All this liquid in my mouth.
+
 - text: |-
     Giving a dolphin a handjob for science.
+
 - text: |-
     Hodor.
+
 - text: |-
     A floor that is literally made of lava.
 
 black:
+
 - text: |-
     Let me tell you about my new startup. It's basically _____, but for _____.
   pick: 2
+
 - text: |-
     _____ was totally worth the trauma.
